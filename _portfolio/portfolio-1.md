@@ -1,6 +1,7 @@
 ---
 title: "Bayesian and Partition-Based Optimization for Hyperparameter Optimization of LLM Fine-Tuning"
-excerpt: "End-of-studies internship under the guidance of Prof. El-ghazali Talbi <br/><img src='/images/500x300.png'>"
+#excerpt: "End-of-studies internship under the guidance of Prof. El-ghazali Talbi <br/><img src='/images/500x300.png'>"
+excerpt: "End-of-studies internship under the guidance of Prof. El-ghazali Talbi"
 collection: portfolio
 ---
 
