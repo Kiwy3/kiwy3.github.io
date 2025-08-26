@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Object Oriented Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-autumn-poo
+venue: "IG2I, Centrale Lille Institut"
+date: 2025-10-01
+location: "Lens, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+33 hours for introduction of OOP in Java
 
-Heading 1
-======
 
-Heading 2
+Contents
 ======
-
-Heading 3
-======
+- Introduction
+- TO DO
