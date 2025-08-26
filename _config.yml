@@ -28,13 +28,15 @@ author:
   bio              : "PhD Student in Operation Research | INOCS team at INRIA Lille"
   location         : "Lille"
   employer         : "INRIA Lille | Centrale Lille"
+  team             : "INOCS"
+  team_url         : "https://team.inria.fr/inocs/"
   uri              : # URL
   email            : "nathan.davouse@inria.fr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-0313-2485"
