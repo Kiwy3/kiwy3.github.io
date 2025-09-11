@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operation Research, Centrale Lille, 2025 - now
+* M.S. in System Safety and Optimization, UTT, 2023-2025
+* Eng. Degree in Industrial Engineering, UTT, 2021-2025
+* Integrated Preparatory Class, UTT, 2019-2021
 
 Work experience
 ======
