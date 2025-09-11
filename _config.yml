@@ -233,6 +233,9 @@ collections:
     permalink: /:collection/:path/
   mediation:
     output: true
+    permalink: /:collection/:path/  
+  volunteering:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -295,6 +298,13 @@ defaults:
   - scope:
       path: ""
       type: mediation
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: volunteering
     values:
       layout: single
       author_profile: false
