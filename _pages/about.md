@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Nathan Davouse, a PhD student specializing in Operations Research. My thesis is about **ecological and economic logistics service network design**, under the supervision of *Frédéric Semet* and *Diego Cattaruzza* along the guidance of *Gaël Guillot*. This work is funded by La Poste, to deal with the network design of their B2B logistics providers, Log'issimo.
+Hello! My name is **Nathan Davouse**, and I am currently a PhD student in *Operations Research*. My research focuses on the design of **ecological and economic logistics service networks**, a subject that lies at the intersection of efficiency, sustainability, and innovation. I am fortunate to carry out this work under the supervision of *Frédéric Semet* and *Diego Cattaruzza*, with the guidance of *Gaël Guillot*. The project is funded by *La Poste*, with a particular focus on optimizing the B2B logistics networks of its provider, *Log’issimo*.  
 
-Previously, I earned an engineering degree in *Industrial Engineering* and a master's degree in *System Operation and Safety*, both from the University of Technology of Troyes (UTT), where I attended the engineering school.
+Before starting my PhD, I completed both an **engineering degree in Industrial Engineering** and a **master’s degree in System Operation and Safety** at the *University of Technology of Troyes (UTT)*. These studies gave me a strong foundation in systems optimization, logistics, and safety management, which naturally led me toward exploring the challenges of sustainable logistics.  
 
-I am passionate about combining environmental responsibility with efficient logistics and safety in complex systems.
+My work is motivated by a strong interest in bridging **environmental responsibility** with **operational performance**. In today’s context, designing logistics networks is not only about minimizing costs or ensuring efficiency, but also about considering ecological impact and fostering long-term resilience. I am passionate about finding methods and models that help organizations meet these evolving challenges in a responsible way.  
+
+Beyond my research, I enjoy engaging with the broader academic and professional community, exchanging ideas on logistics, operations research, and sustainability. My goal is to contribute to the development of tools and approaches that support both scientific progress and practical applications in industry.  
+
+
 
 <!--
 For more info
